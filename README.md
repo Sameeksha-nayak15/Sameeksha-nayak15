@@ -1,5 +1,6 @@
+# 💫 Hi 👋, I'm Sameeksha
 # 💫 About Me:
-Hi, I'm Sameeksha!<br><br>🎓 MCA Graduate with an interest in Java Backend Development.<br>🚀 I enjoy building real-world projects and improving my problem-solving skills through consistent practice.<br>🌱 Always learning, exploring new technologies, and working to become a better software developer.
+🎓 MCA Graduate with an interest in Java Backend Development.<br>🚀 I enjoy building real-world projects and improving my problem-solving skills through consistent practice.<br>🌱 Always learning, exploring new technologies, and working to become a better software developer.
 
 
 ## 🌐 Socials:
